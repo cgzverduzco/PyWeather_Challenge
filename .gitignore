@@ -1,3 +1,6 @@
+# Adding config.py file.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,6 +28,9 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+# .DS_Store
+.DS_Store
+
 MANIFEST
 
 # PyInstaller
