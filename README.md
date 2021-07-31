@@ -10,12 +10,12 @@ ________________________
 
 Also the user can define the preference of weather, 
 
-![alt text](./Vacation_search/WeatherPy_vacation_preferences.png)
+![alt text](./Vacation_Search/WeatherPy_vacation_preferences.png)
 ________________________________
 
 And the app shows a map that meets this preference, around the world, and gives weather data for each city and hotel.
 
-![alt text](./Vacation_search/WeatherPy_vacation_map.png)
+![alt text](./Vacation_Search/WeatherPy_vacation_map.png)
 
 _________________________
 
